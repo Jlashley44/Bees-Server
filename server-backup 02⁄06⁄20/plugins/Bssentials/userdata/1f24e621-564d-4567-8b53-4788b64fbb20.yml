@@ -1,0 +1,20 @@
+npc: false
+lastAccountName: CaptainWalther
+money: 100.0
+uuid: 1f24e621-564d-4567-8b53-4788b64fbb20
+homes:
+  '1':
+    world: world
+    x: 191.7458025377675
+    y: 88.0
+    z: 198.84100205839127
+  '2':
+    world: world
+    x: 547.182481844799
+    y: 69.0
+    z: 858.2004824652115
+  '4':
+    world: world
+    x: 175.4019989704098
+    y: 76.0
+    z: 800.461734174049

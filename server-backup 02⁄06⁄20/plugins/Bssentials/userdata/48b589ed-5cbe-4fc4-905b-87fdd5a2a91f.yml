@@ -1,0 +1,9 @@
+npc: false
+lastAccountName: volzzy
+money: 100.0
+homes:
+  winter:
+    world: world
+    x: 184.70480677839342
+    y: 72.0
+    z: -6588.697020309559

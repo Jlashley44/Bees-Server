@@ -1,0 +1,9 @@
+npc: false
+lastAccountName: StarPeen
+money: 100.0
+homes:
+  home:
+    world: world
+    x: 350.7115077333351
+    y: 64.0
+    z: -6136.405878068029

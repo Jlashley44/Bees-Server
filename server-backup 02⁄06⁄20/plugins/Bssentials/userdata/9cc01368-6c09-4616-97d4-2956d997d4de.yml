@@ -1,0 +1,25 @@
+npc: false
+lastAccountName: jumblejo1
+money: 100.0
+uuid: 9cc01368-6c09-4616-97d4-2956d997d4de
+homes:
+  jumblejo1:
+    world: world
+    x: 1367.6362648174895
+    y: 66.0
+    z: -2632.2041278656934
+  home:
+    world: world
+    x: 1367.2250409625074
+    y: 66.0
+    z: -2633.2923824676514
+  <home>:
+    world: world
+    x: 1366.6839205339656
+    y: 66.0
+    z: -2632.368106885759
+  '1':
+    world: world
+    x: 1366.6839205339656
+    y: 66.0
+    z: -2632.368106885759

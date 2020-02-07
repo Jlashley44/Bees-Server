@@ -1,0 +1,25 @@
+npc: false
+lastAccountName: NasaLeaf13
+money: 100.0
+uuid: e2aed52a-7d31-4ef6-bb35-339630f6297f
+homes:
+  pickles:
+    world: world
+    x: -1300.0379140666323
+    y: 77.0
+    z: -3476.1359454488393
+  home:
+    world: world
+    x: -1302.9988461657006
+    y: 83.0
+    z: -3462.905742603263
+  '1':
+    world: world
+    x: -1287.2870278949113
+    y: 77.0
+    z: -3465.068886712955
+  NasaLeaf13:
+    world: world
+    x: -1290.7757741575776
+    y: 77.0
+    z: -3465.3954973524983

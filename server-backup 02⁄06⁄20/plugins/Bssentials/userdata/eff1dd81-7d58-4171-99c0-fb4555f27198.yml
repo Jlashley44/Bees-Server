@@ -1,0 +1,35 @@
+npc: false
+lastAccountName: Everant
+money: 100.0
+uuid: eff1dd81-7d58-4171-99c0-fb4555f27198
+homes:
+  split:
+    world: world
+    x: 494.66007134292977
+    y: 46.0
+    z: -6279.496327405836
+  ravine:
+    world: world
+    x: 507.248229906673
+    y: 36.0
+    z: -6259.699999988079
+  green:
+    world: world
+    x: 136.00325191591807
+    y: 63.0
+    z: -4807.093659890482
+  swamp:
+    world: world
+    x: -672.3147300357649
+    y: 67.0
+    z: -4013.727704253872
+  home:
+    world: world
+    x: 480.69690726189447
+    y: 66.0
+    z: -6280.810058540241
+  fortress:
+    world: world_nether
+    x: -550.661265065168
+    y: 67.0
+    z: -587.5901963769023

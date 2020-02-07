@@ -1,0 +1,10 @@
+npc: false
+lastAccountName: Armogan
+money: 100.0
+uuid: 81638146-081c-40ef-a901-5408f5b09221
+homes:
+  '1':
+    world: world
+    x: 177.15259764258406
+    y: 70.9375
+    z: -6590.840439055657
